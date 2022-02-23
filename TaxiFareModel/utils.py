@@ -23,10 +23,6 @@ def haversine_distance(df,
 
     return haversine_distance
 
-#df["distance"] = haversine_distance(df,
-#                                    start_lat="pickup_latitude", start_lon="pickup_longitude",
-#                                    end_lat="dropoff_latitude", end_lon="dropoff_longitude")
-
 
 def haversine_vectorized(df,
                          start_lat="pickup_latitude",

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/takita/code/TakitaB/TaxiFareModel/mlruns/1/55d38244aba141c3bc5ccbe459896c19/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 55d38244aba141c3bc5ccbe459896c19
+run_uuid: 55d38244aba141c3bc5ccbe459896c19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645543744812
+status: 1
+tags: []
+user_id: unknown
