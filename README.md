@@ -1,10 +1,8 @@
 # Data analysis
 - Document here the project: TaxiFareModel
-- Description: Project Description
-- Data Source:
-- Type of analysis:
-
-Please document the project the better you can.
+- Description: Estimating taxi fares in NYC. Exploring under the hood of ride sharing app services with a predictive machne learning model.
+- Data Source: Le Wagon AWS bucket
+- Type of analysis: Linear regression model
 
 # Startup the project
 
