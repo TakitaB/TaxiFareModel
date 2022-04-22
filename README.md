@@ -1,7 +1,7 @@
 # Data analysis
 - Document here the project: TaxiFareModel
 - Description: Estimating taxi fares in NYC. Exploring under the hood of ride sharing app services with a predictive machine learning model.
-- Data Source: Public AWS dataset
+- Data Source: Le Wagon public s3 dataset
 - Type of analysis: Linear regression model
 
 # Startup the project
